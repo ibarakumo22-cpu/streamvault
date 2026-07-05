@@ -1,0 +1,752 @@
+{
+  "users": [
+    {
+      "id": "user_demo",
+      "name": "Demo Creator",
+      "email": "demo@streamdeck.local",
+      "passwordHash": "demo",
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "subscriptions": [
+        "chan_focus"
+      ]
+    },
+    {
+      "id": "user_mr6rd228_08qlpu",
+      "name": "Ibarakumo",
+      "email": "ibarakumo@streamdeck.local",
+      "passwordHash": "8aeb287cf3f02b3004dfc9f83318cab047c80cbfefafaf9b05344963a8fcc8f2",
+      "subscriptions": [],
+      "createdAt": "2026-07-04T19:31:29.073Z"
+    },
+    {
+      "id": "user_mr6s72tq_jac53r",
+      "name": "ibarakumo owonaro",
+      "email": "ibarakumo22@gmail.com",
+      "passwordHash": "8aeb287cf3f02b3004dfc9f83318cab047c80cbfefafaf9b05344963a8fcc8f2",
+      "subscriptions": [],
+      "createdAt": "2026-07-04T19:54:49.742Z"
+    },
+    {
+      "id": "user_mr7hid6k_w09btd",
+      "name": "ibarakumo owonaro",
+      "email": "ibarakumo22@streamdeck.local",
+      "passwordHash": "0ead2060b65992dca4769af601a1b3a35ef38cfad2c2c465bb160ea764157c5d",
+      "subscriptions": [],
+      "createdAt": "2026-07-05T07:43:26.780Z"
+    },
+    {
+      "id": "user_mr7k728b_m0vghy",
+      "name": "ibarakumo owonaro",
+      "email": "ibarakumo2000@gmail.com",
+      "passwordHash": "8aeb287cf3f02b3004dfc9f83318cab047c80cbfefafaf9b05344963a8fcc8f2",
+      "subscriptions": [],
+      "createdAt": "2026-07-05T08:58:38.835Z"
+    },
+    {
+      "id": "user_mr7qkeo0_b0v1sa",
+      "name": "IVS Admin",
+      "email": "adminivs@streamdeck.local",
+      "passwordHash": "0ead2060b65992dca4769af601a1b3a35ef38cfad2c2c465bb160ea764157c5d",
+      "subscriptions": [],
+      "createdAt": "2026-07-05T11:56:58.615Z"
+    },
+    {
+      "id": "user_mr7qp6gp_seos2n",
+      "name": "Enyioma",
+      "email": "ibarakumoivs@gmail.com",
+      "passwordHash": "8aeb287cf3f02b3004dfc9f83318cab047c80cbfefafaf9b05344963a8fcc8f2",
+      "subscriptions": [
+        "chan_user_mr7k728b_m0vghy"
+      ],
+      "createdAt": "2026-07-05T12:00:41.209Z"
+    }
+  ],
+  "profiles": [
+    {
+      "id": "profile_demo",
+      "userId": "user_demo",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [
+        {
+          "videoId": "vid_music",
+          "watchedAt": "2026-07-04T18:43:52.162Z",
+          "progress": 35
+        },
+        {
+          "videoId": "vid_edu",
+          "watchedAt": "2026-07-04T18:43:52.162Z",
+          "progress": 35
+        }
+      ],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education",
+          "Music"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr6rd229_a0epa6",
+      "userId": "user_mr6rd228_08qlpu",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr6rdlpl_v3i6j7",
+      "userId": "user_mr6rd228_08qlpu",
+      "name": "Ibarakumo",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": []
+      }
+    },
+    {
+      "id": "profile_mr6rexep_cykurm",
+      "userId": "user_demo",
+      "name": "ibarakumo",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [
+        {
+          "videoId": "vid_mr7q2i6k_pjnlqd",
+          "progress": 1,
+          "watchedAt": "2026-07-05T14:22:21.972Z"
+        },
+        {
+          "videoId": "vid_mr6sctrc_my97sv",
+          "progress": 1,
+          "watchedAt": "2026-07-05T13:36:59.195Z"
+        },
+        {
+          "videoId": "vid_edu",
+          "progress": 1,
+          "watchedAt": "2026-07-05T13:00:19.864Z"
+        },
+        {
+          "videoId": "vid_mr7ohz04_zm4gdc",
+          "progress": 1,
+          "watchedAt": "2026-07-05T12:34:07.788Z"
+        },
+        {
+          "videoId": "vid_doc",
+          "progress": 1,
+          "watchedAt": "2026-07-05T12:06:55.816Z"
+        },
+        {
+          "videoId": "vid_mr7q5e51_1txray",
+          "progress": 1,
+          "watchedAt": "2026-07-05T11:48:15.121Z"
+        },
+        {
+          "videoId": "vid_tech",
+          "progress": 1,
+          "watchedAt": "2026-07-05T11:47:18.105Z"
+        },
+        {
+          "videoId": "vid_music",
+          "progress": 1,
+          "watchedAt": "2026-07-05T08:53:57.605Z"
+        },
+        {
+          "videoId": "vid_game",
+          "progress": 1,
+          "watchedAt": "2026-07-04T19:53:24.248Z"
+        }
+      ],
+      "downloads": [],
+      "preferences": {
+        "categories": []
+      }
+    },
+    {
+      "id": "profile_mr6rgr0v_19u6pj",
+      "userId": "user_demo",
+      "name": "Tokoni",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [
+        {
+          "videoId": "vid_mr6sctrc_my97sv",
+          "progress": 1,
+          "watchedAt": "2026-07-05T08:55:48.797Z"
+        }
+      ],
+      "downloads": [],
+      "preferences": {
+        "categories": []
+      }
+    },
+    {
+      "id": "profile_mr6s72tq_p6y85l",
+      "userId": "user_mr6s72tq_jac53r",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr7hid6k_m7t20x",
+      "userId": "user_mr7hid6k_w09btd",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "👤",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr7k72pf_btmdug",
+      "userId": "user_mr7k728b_m0vghy",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "User",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr7k7hrw_ep303n",
+      "userId": "user_mr7k728b_m0vghy",
+      "name": "Ibrakie",
+      "type": "Adult",
+      "avatar": "User",
+      "focus": "All",
+      "history": [
+        {
+          "videoId": "vid_mr7q3578_y8xcgx",
+          "progress": 1,
+          "watchedAt": "2026-07-05T11:45:41.118Z"
+        },
+        {
+          "videoId": "vid_mr6sctrc_my97sv",
+          "progress": 1,
+          "watchedAt": "2026-07-05T11:45:27.722Z"
+        },
+        {
+          "videoId": "vid_mr7ohz04_zm4gdc",
+          "progress": 1,
+          "watchedAt": "2026-07-05T11:45:22.478Z"
+        }
+      ],
+      "downloads": [],
+      "preferences": {
+        "categories": []
+      }
+    },
+    {
+      "id": "profile_mr7qkepj_e1an94",
+      "userId": "user_mr7qkeo0_b0v1sa",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "User",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    },
+    {
+      "id": "profile_mr7qp6gp_r3vxd3",
+      "userId": "user_mr7qp6gp_seos2n",
+      "name": "Main Profile",
+      "type": "Adult",
+      "avatar": "User",
+      "focus": "All",
+      "history": [],
+      "downloads": [],
+      "preferences": {
+        "categories": [
+          "Tech",
+          "Education"
+        ]
+      }
+    }
+  ],
+  "videos": [
+    {
+      "id": "vid_mr7r5bwp_8keo38",
+      "title": "Flash",
+      "description": "Fastest man alive",
+      "category": "Shorts",
+      "tags": [
+        "Entertainment"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_demo",
+      "channelName": "Demo Creator",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr7r51in_7c49ci.mp4",
+      "mimeType": "video/mp4",
+      "createdAt": "2026-07-05T12:13:14.761Z",
+      "visibility": "Public",
+      "autoCaptions": false,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "id": "vid_mr7r4x0w_djwvii",
+      "title": "Flash",
+      "description": "Fastest man alive",
+      "category": "Shorts",
+      "tags": [
+        "Entertainment"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_demo",
+      "channelName": "Demo Creator",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr7r4vv4_7t2l3j.mp4",
+      "mimeType": "video/mp4",
+      "createdAt": "2026-07-05T12:12:55.472Z",
+      "visibility": "Public",
+      "autoCaptions": false,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "id": "vid_mr7qhvlc_2rgb5n",
+      "title": "The Flash",
+      "description": "The fastest man alive",
+      "category": "Shorts",
+      "tags": [
+        "Entertainment"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_mr7k728b_m0vghy",
+      "channelName": "ibarakumo owonaro",
+      "ownerId": "user_mr7k728b_m0vghy",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr7qhuep_8907p9.mp4",
+      "mimeType": "video/mp4",
+      "createdAt": "2026-07-05T11:55:00.528Z",
+      "visibility": "Public",
+      "autoCaptions": false,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [
+        "user_mr7qp6gp_seos2n"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_mr7q2i6k_pjnlqd",
+      "title": "Wetin i go do my teacher",
+      "description": "Annoying teachers",
+      "category": "Shorts",
+      "tags": [
+        "Producer"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_mr7k728b_m0vghy",
+      "channelName": "ibarakumo owonaro",
+      "ownerId": "user_mr7k728b_m0vghy",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr7q2i5y_g304oz.mp4",
+      "mimeType": "video/mp4",
+      "createdAt": "2026-07-05T11:43:03.308Z",
+      "visibility": "Public",
+      "autoCaptions": true,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [
+        "user_demo"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_mr7ohz04_zm4gdc",
+      "title": "Funny",
+      "description": "Laugh out loud",
+      "category": "Shorts",
+      "tags": [
+        "Producer"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_mr7k728b_m0vghy",
+      "channelName": "ibarakumo owonaro",
+      "ownerId": "user_mr7k728b_m0vghy",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr7ohyyt_71aysg.mp4",
+      "mimeType": "video/mp4",
+      "createdAt": "2026-07-05T10:59:05.716Z",
+      "visibility": "Public",
+      "autoCaptions": true,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "id": "vid_mr6sctrc_my97sv",
+      "title": "The Flash",
+      "description": "A young man willing to risk his life for his friends",
+      "category": "Tech",
+      "tags": [
+        "Entertainment"
+      ],
+      "duration": 0,
+      "views": 0,
+      "channelId": "chan_user_demo",
+      "channelName": "Demo Creator",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, #2454ff, #ff5a3d)",
+      "fileName": "upload_mr6scsvo_4ztv2y.mp4",
+      "createdAt": "2026-07-04T19:59:17.928Z",
+      "visibility": "Public",
+      "autoCaptions": false,
+      "smartTags": false,
+      "monetized": false,
+      "likes": [
+        "user_mr7k728b_m0vghy",
+        "user_demo"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_music",
+      "title": "Neon Studio Session",
+      "description": "A late-night performance with crisp synths and a calm visual pulse.",
+      "category": "Music",
+      "tags": [
+        "music",
+        "live",
+        "beats"
+      ],
+      "duration": 820,
+      "views": 12000,
+      "channelId": "chan_stream",
+      "channelName": "StreamDeck Originals",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(210 74% 42%), hsl(22 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [
+        "user_demo"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_edu",
+      "title": "Data Structures in 20 Minutes",
+      "description": "A focused walkthrough of arrays, maps, trees, and graph intuition.",
+      "category": "Education",
+      "tags": [
+        "education",
+        "coding",
+        "study"
+      ],
+      "duration": 1200,
+      "views": 19350,
+      "channelId": "chan_focus",
+      "channelName": "Focus Lab",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(234 74% 42%), hsl(60 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [
+        "user_demo"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_game",
+      "title": "Boss Fight Breakdown",
+      "description": "Fast cuts, strategy notes, and the clutch moments that decide the run.",
+      "category": "Gaming",
+      "tags": [
+        "gaming",
+        "walkthrough",
+        "highlights"
+      ],
+      "duration": 640,
+      "views": 26700,
+      "channelId": "chan_stream",
+      "channelName": "StreamDeck Originals",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(258 74% 42%), hsl(98 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [],
+      "dislikes": [
+        "user_demo"
+      ]
+    },
+    {
+      "id": "vid_tech",
+      "title": "Building a Home Media Server",
+      "description": "A practical tour through storage, transcoding, and network setup.",
+      "category": "Tech",
+      "tags": [
+        "tech",
+        "servers",
+        "storage"
+      ],
+      "duration": 970,
+      "views": 34050,
+      "channelId": "chan_focus",
+      "channelName": "Focus Lab",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(282 74% 42%), hsl(136 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [
+        "user_demo"
+      ],
+      "dislikes": []
+    },
+    {
+      "id": "vid_short",
+      "title": "60 Second Camera Trick",
+      "description": "A quick creator tip for making handheld shots feel cinematic.",
+      "category": "Shorts",
+      "tags": [
+        "shorts",
+        "camera",
+        "creator"
+      ],
+      "duration": 60,
+      "views": 41400,
+      "channelId": "chan_stream",
+      "channelName": "StreamDeck Originals",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(306 74% 42%), hsl(174 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [],
+      "dislikes": []
+    },
+    {
+      "id": "vid_doc",
+      "title": "How Cities Sleep",
+      "description": "A quiet mini documentary about logistics, food, and transit after dark.",
+      "category": "Documentary",
+      "tags": [
+        "documentary",
+        "city",
+        "night"
+      ],
+      "duration": 1430,
+      "views": 48750,
+      "channelId": "chan_focus",
+      "channelName": "Focus Lab",
+      "ownerId": "user_demo",
+      "thumbnail": "linear-gradient(135deg, hsl(330 74% 42%), hsl(212 82% 54%))",
+      "fileName": null,
+      "createdAt": "2026-07-04T18:43:52.162Z",
+      "likes": [],
+      "dislikes": []
+    }
+  ],
+  "comments": [
+    {
+      "id": "com_1",
+      "videoId": "vid_edu",
+      "userId": "user_demo",
+      "author": "Demo Creator",
+      "text": "The tree section finally clicked for me.",
+      "parentId": null,
+      "createdAt": "2026-07-04T18:43:52.162Z"
+    },
+    {
+      "id": "com_2",
+      "videoId": "vid_edu",
+      "userId": "user_demo",
+      "author": "Demo Creator",
+      "text": "Same. The visual examples help.",
+      "parentId": "com_1",
+      "createdAt": "2026-07-04T18:43:52.162Z"
+    },
+    {
+      "id": "com_mr6sksi4_vqogyo",
+      "videoId": "vid_mr6sctrc_my97sv",
+      "userId": "user_demo",
+      "author": "Demo Creator",
+      "text": "Good",
+      "parentId": null,
+      "createdAt": "2026-07-04T20:05:29.548Z"
+    },
+    {
+      "id": "com_mr7jzqru_hoousj",
+      "videoId": "vid_mr6sctrc_my97sv",
+      "userId": "user_demo",
+      "author": "Demo Creator",
+      "text": "I Love this",
+      "parentId": null,
+      "createdAt": "2026-07-05T08:52:56.778Z"
+    },
+    {
+      "id": "com_mr7k3ttc_al732d",
+      "videoId": "vid_mr6sctrc_my97sv",
+      "userId": "user_demo",
+      "author": "Demo Creator",
+      "text": "Lovely",
+      "parentId": null,
+      "createdAt": "2026-07-05T08:56:07.344Z"
+    },
+    {
+      "id": "com_mr7k8g2y_kavd2i",
+      "videoId": "vid_mr6sctrc_my97sv",
+      "userId": "user_mr7k728b_m0vghy",
+      "author": "ibarakumo owonaro",
+      "text": "Wonderful",
+      "parentId": null,
+      "createdAt": "2026-07-05T08:59:42.826Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "note_mr7nkdtq_c3210g",
+      "userId": "all",
+      "title": "Live now",
+      "body": "ibarakumo owonaro started: The flash",
+      "read": true,
+      "createdAt": "2026-07-05T10:32:58.622Z"
+    },
+    {
+      "id": "note_mr7nlfth_jndicd",
+      "userId": "all",
+      "title": "Live now",
+      "body": "ibarakumo owonaro started: flash",
+      "read": true,
+      "createdAt": "2026-07-05T10:33:47.861Z"
+    },
+    {
+      "id": "note_mr7qfjcn_nwexpn",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:11.351Z"
+    },
+    {
+      "id": "note_mr7qfku4_f4jpa2",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:13.276Z"
+    },
+    {
+      "id": "note_mr7qfmj3_ilkgs5",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:15.471Z"
+    },
+    {
+      "id": "note_mr7qfo44_po24sk",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:17.524Z"
+    },
+    {
+      "id": "note_mr7qfpp0_adsja2",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:19.572Z"
+    },
+    {
+      "id": "note_mr7qfrc3_7gf4pr",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:21.699Z"
+    },
+    {
+      "id": "note_mr7qft9x_ri3jlr",
+      "userId": "user_mr7k728b_m0vghy",
+      "title": "Video removed",
+      "body": "Wetin i go do my teacher was removed from your channel.",
+      "read": false,
+      "createdAt": "2026-07-05T11:53:24.213Z"
+    }
+  ],
+  "liveStreams": [
+    {
+      "id": "live_mr7nlfth_45ohpu",
+      "title": "flash",
+      "description": "vkjvkvjvklj",
+      "channelId": "chan_user_mr7k728b_m0vghy",
+      "channelName": "ibarakumo owonaro",
+      "ownerId": "user_mr7k728b_m0vghy",
+      "status": "ended",
+      "viewers": 1,
+      "startedAt": "2026-07-05T10:33:47.861Z",
+      "endedAt": "2026-07-05T10:34:17.376Z"
+    },
+    {
+      "id": "live_mr7nkdtp_wp6c63",
+      "title": "The flash",
+      "description": "lhgfxdfgvhbnjm",
+      "channelId": "chan_user_mr7k728b_m0vghy",
+      "channelName": "ibarakumo owonaro",
+      "ownerId": "user_mr7k728b_m0vghy",
+      "status": "ended",
+      "viewers": 1,
+      "startedAt": "2026-07-05T10:32:58.622Z",
+      "endedAt": "2026-07-05T10:33:04.069Z"
+    }
+  ]
+}
